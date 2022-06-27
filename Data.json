@@ -1,12 +1,12 @@
-OnlineData:{
-  OnlineLevelData:[
+"OnlineData":{
+  "OnlineLevelData":[
     {
-      LevelName:"TestLevel",
-      Creator:"HEJOK254"
+      "LevelName":"TestLevel",
+      "Creator":"HEJOK254"
     },
     {
-      LevelName:"TestLevel2",
-      Creator:"A Cool Guy
+      "LevelName":"TestLevel2",
+      "Creator":"A Cool Guy
     }
   ]
 }
