@@ -1,14 +1,12 @@
 {
-"OnlineData":{
-    "OnlineLevelData":[
-      {
-        "LevelName":"TestLevel",
-        "Creator":"HEJOK254"
-      },
-      {
-        "LevelName":"TestLevel2",
-        "Creator":"A Cool Guy"
-      }
+    "Levels":[
+        {
+            "LevelName":"TestName_01",
+            "Creator":"TestCreator_01"
+        },
+        {
+            "LevelName":"TestName_02",
+            "Creator":"TestCreator_02"
+        }
     ]
-  }
 }
